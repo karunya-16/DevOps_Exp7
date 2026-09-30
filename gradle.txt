@@ -1,0 +1,6 @@
+gradle -version
+gradle clean
+gradle build
+gradle run
+gradle tasks
+gradle jar
